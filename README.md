@@ -8,22 +8,6 @@ The **Waste Management System Web Application** is a user-friendly platform aime
 
 Private solutions employ advanced waste disposal techniques, ensuring efficient and eco-friendly waste management. This project is designed to optimize waste management efforts and contribute to a cleaner environment.
 
-## Features
-- **User-Friendly Interface**: Easy-to-navigate platform for waste complaint registration.
-- **Dual-Pronged Solution Pathways**:
-  - **Government Solutions**: Free solutions utilizing public resources.
-  - **Private Solutions**: Paid solutions using advanced waste management techniques such as recycling and waste-to-energy technologies.
-- **Data Analytics**: Analyze complaint data to optimize resource allocation and decision-making.
-- **Environmental Impact**: Minimize the environmental footprint of waste disposal.
-- **Community Engagement**: Foster active participation in waste management.
-
-## Objectives
-1. **Enhance Community Engagement**: Encourage residents to actively report and engage in waste management activities.
-2. **Optimize Waste Management**: Analyze complaints and optimize solutions using data insights.
-3. **Timely Issue Resolution**: Provide authorities with tools to manage complaints and resolve issues promptly.
-4. **Promote Advanced Disposal Techniques**: Encourage the use of eco-friendly waste management practices.
-5. **User Convenience**: Provide an intuitive, seamless experience for reporting complaints.
-
 ## Technologies Used
 ### Frontend
 - **HTML**: Structuring the content and layout of the website.
@@ -115,3 +99,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 We would like to thank our guides, mentors, and contributors for their continuous support throughout the development of this project.
+
+## Feedback
+Contact For any inquiries or feedback, please contact [yugalkosamshile2002@gmail.com](yugalkosamshile2002@gmail.com).
+
