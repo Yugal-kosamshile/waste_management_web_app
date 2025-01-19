@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Page</title>
+</head>
+<body>
+
+<h1>Payment Details</h1>
+
+<form id="paymentForm" onsubmit="submitPayment(event)">
+    <label for="cardNumber">Card Number:</label>
+    <input type="text" id="cardNumber" name="cardNumber" placeholder="Enter card number" required>
+    <br>
+
+    <label for="expiryDate">Expiry Date:</label>
+    <input type="text" id="expiryDate" name="expiryDate" placeholder="MM/YY" required>
+    <br>
+
+    <label for="cvv">CVV:</label>
+    <input type="text" id="cvv" name="cvv" placeholder="CVV" required>
+    <br>
+
+    <button type="submit">Submit Payment</button>
+</form>
+
+<script>
+    function submitPayment(event) {
+        event.preventDefault();
+
+        // Basic validation (you would perform more thorough validation in a real application)
+        const cardNumber = document.getElementById('cardNumber').value;
+        const expiryDate = document.getElementById('expiryDate').value;
+        const cvv = document.getElementById('cvv').value;
+
+        if (!cardNumber || !expiryDate || !cvv) {
+            alert('Please fill in all fields.');
+            return;
+        }
+
+        // Simulate a successful payment (replace this with actual payment processing logic)
+        alert('Payment successful!');
+
+        // You might want to redirect the user to a confirmation page or perform other actions here
+    }
+</script>
+
+</body>
+</html>
