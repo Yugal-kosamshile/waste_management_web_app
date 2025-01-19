@@ -47,7 +47,7 @@ Private solutions employ advanced waste disposal techniques, ensuring efficient 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Yugal-kosamshile/waste_management_web_app/tree/main
    ```
 
 2. Set up your web server (e.g., Apache or Nginx) to serve the project directory.
@@ -109,6 +109,9 @@ Private solutions employ advanced waste disposal techniques, ensuring efficient 
 - **Mobile Application**: Develop a mobile version of the platform for easier access.
 - **AI-Based Solutions**: Integrate AI to optimize waste management solutions based on complaint patterns.
 - **User Feedback**: Allow users to rate the solutions and services to improve the platform further.
+  
+## License
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 We would like to thank our guides, mentors, and contributors for their continuous support throughout the development of this project.
